@@ -1,9 +1,9 @@
 ## APAER School Management System (APAER-school-ms)
 A comprehensive digital ecosystem designed to streamline school information management and administrative tasks for APAPER International School.
 <br>
-### 📝 Project Overview
+### 📝 Project Overview <br>
 This system provides digital access to crucial school data, moving away from manual record-keeping to a centralized, efficient platform. It is built to support students, teachers, and administrators in managing daily educational operations. <br>
-###🚀 Key Features
+###🚀 Key Features <br>
 Student Information Management: Centralized database for student profiles, enrollment, and academic history.
 Attendance Tracking: Digital tools for teachers to record and monitor student attendance.
 Role-Based Access Control: Secure, separate dashboards for Admins, Teachers, and Students.
